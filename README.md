@@ -9,7 +9,7 @@ This project uses [youtube-dl](https://github.com/rg3/youtube-dl) by [Ricardo Ga
 #### Download
 Either download the files as a zip and unpack them or clone the repository by running:
 
-```git clone https://github.com/nicolasraube/yt-playlist-downloader.git```
+```git clone https://github.com/italoalanw3/yt-playlist-downloader.git```
 
 #### Install [Python](https://www.python.org/downloads/)
 Note: Please use Python 3.
